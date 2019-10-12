@@ -1,2 +1,2 @@
 name = input("What's your name?\n")
-printf(namr + " , you are awesome!)
+printf(name + " , you are awesome!)

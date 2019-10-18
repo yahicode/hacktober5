@@ -4,20 +4,20 @@
 void main()
 {
 
-    int a,c,b;
+    int input,temp,b;
     printf("Enter a number\n");
-    scanf("%d",&a);
-    c=a;
-    b=c;
-   while(c>1)
+    scanf("%d",&input);
+    temp=input;
+    b=temp;
+   while(temp>1)
   { int count = 0;
         do
         {
-            c=c/2;
+            temp=temp/2;
             count++;
-        }while(c>1);
+        }while(temp>1);
          b = b-pow(2,count);
         printf("%d ",b);
-        c=b;
+        temp=b;
   }
 }

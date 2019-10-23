@@ -4,13 +4,13 @@
 void main()
 {
 
-    int input,temp,b;
+    int input,temp,b,count = 0;
     printf("Enter a number\n");
     scanf("%d",&input);
     temp=input;
     b=temp;
    while(temp>1)
-  { int count = 0;
+  {  count = 0;
         do
         {
             temp=temp/2;

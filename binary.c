@@ -5,7 +5,7 @@ void main()
 {
 
     int input,temp,b;
-    printf("Enter a number\n");
+    printf("Enter a numberto find binary:\n");
     scanf("%d",&input);
     temp=input;
     b=temp;

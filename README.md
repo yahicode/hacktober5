@@ -1,4 +1,4 @@
-sure
+This readme.md will give you brief idea about this repo ... Good Luck!
 
 Project Title
 One Paragraph of project description goes here

@@ -6,6 +6,10 @@ One Paragraph of project description goes here
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+Following are the steps and all the descriptions for the project 
+
+It really a cool project and also good for the development
+
 Prerequisites
 What things you need to install the software and how to install them
 

@@ -36,7 +36,8 @@ Deployment
 Add additional notes about how to deploy this on a live system
 
 Built With
-Dropwizard - The web framework used
+Dropwizard - The web framework used for everything.
+
 Maven - Dependency Management
 ROME - Used to generate RSS Feeds
 Contributing

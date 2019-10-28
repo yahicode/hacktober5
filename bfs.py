@@ -1,3 +1,4 @@
+Global N
 N = int(input())
 adjList = [[] for i in range(N)]
 visited = [False for i in range(N)]

@@ -1,9 +1,12 @@
 #include<stdio.h>
-int main()
+int main()f
 {
-int n;
-printf("Enter number");
-scanf("%d",&n);
+int n[5],i;
+printf("Enter 5 number");
+for(i=0;i<4;i++)
+scanf("%d",&n[i]);
+printf("Entered 5 numbers are");
+for(i=0;i<4;i++)
 printf("\n%d",n);
 return 0;
 }

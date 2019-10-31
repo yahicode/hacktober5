@@ -1,11 +1,2 @@
 #include<stdio.h>
 int main()f
-{
-int n,i;
-printf("Enter a number");
-scanf("%d",&n);
-printf("Entered number sqaure is ");
-n=n*n;
-printf("\n%d",n);
-return 0;
-}
